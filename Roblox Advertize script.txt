@@ -1,4 +1,5 @@
 --[Works With Krnl/Most free executors.]
+--[Put the customized file in ur Autoexe folder.]
 
 local TimesToRepeatBeforeTeleport = 10
 
