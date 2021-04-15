@@ -1,3 +1,5 @@
+--[Works With Krnl/Most free executors.]
+
 local TimesToRepeatBeforeTeleport = 10
 
 local msg = "MESSAGE HERE"
